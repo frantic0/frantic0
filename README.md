@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Francisco Bernardo 
+
+I am a UK-based researcher, interested in human-computer interaction, acoustic metamaterials, haptics and parametric audio.
+
 <!--
 **frantic0/frantic0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
