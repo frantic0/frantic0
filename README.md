@@ -1,6 +1,6 @@
 ### Greetings 🖖
 
-I'm Francisco Bernardo, I'm interested in human-computer interaction design, acoustics, computational audio and music systems.
+I'm Francisco Bernardo, I'm interested in human-computer interaction, acoustics, computational audio and music systems design.
 
 - 🔭 I work on ultrasonic phased arrays and acoustic metamaterials for novel interfaces at the Multi-Sensory-Devices group, UCL, UK.
 
