@@ -1,8 +1,8 @@
 ### Greetings 🖖
 
-I'm Francisco Bernardo, I am based in the London, UK. I'm interested in human-computer interaction design, acoustics, computational audio and music systems.
+I'm Francisco Bernardo, I'm interested in human-computer interaction design, acoustics, computational audio and music systems.
 
-- 🔭 Currently I'm a postdoc in Computer Science at University College London. I work on ultrasonic phased arrays and acoustic metamaterials for novel interfaces at the Multi-Sensory-Devices group.
+- 🔭 Currently I'm a postdoc in Computer Science at University College London, UK. I work on ultrasonic phased arrays and acoustic metamaterials for novel interfaces at the Multi-Sensory-Devices group.
 
 <!--
 **frantic0/frantic0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
