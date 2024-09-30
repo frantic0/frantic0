@@ -6,7 +6,7 @@
 
 - At the [Experimental Music Technologies Lab](https://www.emutelab.org) at University of Sussex, I developed Web-based livecoding environments for music and machine learning 🎶 🤖 such as [Sema](https://github.com/mimic-sussex/sema) and the [sema-engine](https://github.com/frantic0/sema-engine).
 
-- My PhD in Computer Science from Goldsmiths UoL, focused on interactive machine learning toolkit design for music technologists and audio developers. 
+- My PhD in Computer Science from [Goldsmiths UoL](https://www.gold.ac.uk/computing/), focused on interactive machine learning toolkit design for music technologists and audio developers. 
 
 <!--
 **frantic0/frantic0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
