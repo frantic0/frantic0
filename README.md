@@ -2,9 +2,7 @@
 
 I'm Francisco Bernardo, I'm interested in human-computer interaction, acoustics, computational audio and music systems design.
 
-- 🔭 I work on ultrasonic phased arrays and acoustic metamaterials for novel haptic interfaces in the [Multi-Sensory-Devices](https://github.com/Multi-Sensory-Devices) group at [UCL](https://www.ucl.ac.uk/), UK.
-
-- 🎶 🤖 Previously, I worked on livecoding environments for music and machine learning at Sussex, where I developed [Sema](https://github.com/mimic-sussex/sema) and the [sema-engine](https://github.com/frantic0/sema-engine).
+- 🔭 Previously, I worked on ultrasonic phased arrays and acoustic metamaterials for novel haptic interfaces in the [Multi-Sensory-Devices](https://github.com/Multi-Sensory-Devices) group at [University College London](https://www.ucl.ac.uk/), UK. At University of Sussex, I worked on Web-based livecoding environments for music and machine learning 🎶 🤖 where I developed [Sema](https://github.com/mimic-sussex/sema) and the [sema-engine](https://github.com/frantic0/sema-engine).
 
 - My PhD in Computer Science from Goldsmiths UoL, focused on interactive machine learning toolkit design for music technologists and audio developers. 
 
