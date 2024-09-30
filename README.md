@@ -4,7 +4,7 @@
 
 - 🔭 Previously, I worked at the [Multi-Sensory-Devices Lab](https://www.ucl.ac.uk/computer-science/research/research-groups/multi-sensory-devices/research) at University College London, where I developed acoustic metamaterials and ultrasonic phased arrays for futuristic haptic interfaces.
 
-- At the [Experimental Music Technologies Lab](https://www.emutelab.org) at University of Sussex, I developed Web-based livecoding environments for music and machine learning 🎶 🤖. That includes [Sema](https://github.com/mimic-sussex/sema) and the [sema-engine](https://github.com/frantic0/sema-engine).
+- At the [Experimental Music Technologies Lab](https://www.emutelab.org) at University of Sussex, I developed Web-based livecoding environments for music and machine learning 🎶 🤖 such as [Sema](https://github.com/mimic-sussex/sema) and the [sema-engine](https://github.com/frantic0/sema-engine).
 
 - My PhD in Computer Science from Goldsmiths UoL, focused on interactive machine learning toolkit design for music technologists and audio developers. 
 
