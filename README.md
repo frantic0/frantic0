@@ -1,4 +1,4 @@
-👋 Hi, I'm Francisco Bernardo, and I'm interested in human-computer interaction, acoustics, computational audio and designing music systems.
+👋 Hi, I'm Francisco Bernardo, and I'm interested in the design of human-computer interaction, acoustics, computational audio and music systems.
 
 - I am a Research Associate in Digital Musical Instrument Design at the [Augmented Instrument Lab](https://instrumentslab.org/people/), part of the [Dyson School of Design Engineering](https://www.imperial.ac.uk/design-engineering/) at Imperial College London.
 
