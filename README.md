@@ -8,6 +8,8 @@
 
 - My PhD in Computer Science from [Goldsmiths, University of London](https://www.gold.ac.uk/computing/), focused on interactive machine learning toolkit design for music technologists and audio developers. 
 
+- Previously, I worked as a software architect and engineer in the industry, developing interactive digital signage and business intelligence solutions.
+
 <!--
 **frantic0/frantic0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
