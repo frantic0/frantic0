@@ -9,10 +9,10 @@ I'm currently a **Research Associate in Digital Musical Instrument Design** at t
 
 Here are the best places to explore my work:
 
-- [**impedance-synthesis**](https://github.com/frantic0/impedance-synthesis-stm32h7) — Programmable synthetic impedance for hybrid analog-digital guitar effects running on STM32
 - [**genam**](https://github.com/frantic0/genam) — Generative acoustic metamaterial design and optimisation pipeline
 - [**sema**](https://github.com/mimic-sussex/sema) — Playground for live coding music and machine learning
 - [**sema-engine**](https://github.com/frantic0/sema-engine) — Compiler and high-performance signal engine for live code language ecosystems and modern web audio applications
+- [**impedance-synthesis**](https://github.com/frantic0/impedance-synthesis-stm32h7) — Programmable synthetic impedance for hybrid analog-digital guitar effects running on STM32
 
 ## What I work on
 
