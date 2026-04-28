@@ -2,7 +2,8 @@
 
 I build tools and research software for **virtual analog modelling**, **acoustics**, **live coding**,  **computational audio**, **interactive machine learning**, and **musical HCI**.
 
-I'm currently a **Research Associate in Digital Musical Instrument Design** at the **Augmented Instruments Lab** in the **Dyson School of Design Engineering, Imperial College London**.
+I'm currently a **Research Associate in Digital Musical Instrument Design** at the [Augmented Instrument Lab](https://instrumentslab.org/people/), part of the [Dyson School of Design Engineering](https://www.imperial.ac.uk/design-engineering/) at Imperial College London.
+
 
 ## Start here
 
@@ -23,8 +24,6 @@ Here are the best places to explore my work:
 - human-computer interaction for sound, instruments, and creative technologies
 
 ## Bio
-
-- I am a Research Associate in Digital Musical Instrument Design at the [Augmented Instrument Lab](https://instrumentslab.org/people/), part of the [Dyson School of Design Engineering](https://www.imperial.ac.uk/design-engineering/) at Imperial College London.
 
 - 🔭 Previously, I worked at the [Multi-Sensory-Devices Lab](https://www.ucl.ac.uk/computer-science/research/research-labs/multi-sensory-devices) at University College London, where I developed acoustic metamaterials and ultrasonic phased arrays for futuristic haptic interfaces, and computational design tools to optimise them. You can check my [`genam`](https://github.com/frantic0/genam) repo, a design and optimisation pipeline for generative acoustic metamaterial, which I developed for this purpose.
 
