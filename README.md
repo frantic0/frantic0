@@ -1,4 +1,18 @@
-👋 Hi, I'm Francisco Bernardo, and I'm interested in the design of human-computer interaction, acoustics, computational audio and music systems.
+👋 Hi, I'm Francisco Bernardo,
+
+I build tools and research software for **virtual analog modelling**, **acoustics**, **live coding**,  **computational audio**, **interactive machine learning**, and **musical HCI**.
+
+I'm currently a **Research Associate in Digital Musical Instrument Design** at the **Augmented Instruments Lab** in the **Dyson School of Design Engineering, Imperial College London**.
+
+## Start here
+
+Here are the best places to explore my work:
+
+- [**genam**](https://github.com/frantic0/genam) — a generative acoustic metamaterial design and optimisation pipeline
+- [**Sema**](https://github.com/mimic-sussex/sema) — a playground for live coding music and machine learning
+- [**sema-engine**](https://github.com/frantic0/sema-engine) — a JavaScript signal engine for live code language ecosystems and modern web audio applications
+- [**impedance-synthesis**](https://github.com/frantic0/impedance-synthesis-audio-fx) — a generative acoustic metamaterial design and optimisation pipeline
+
 
 - I am a Research Associate in Digital Musical Instrument Design at the [Augmented Instrument Lab](https://instrumentslab.org/people/), part of the [Dyson School of Design Engineering](https://www.imperial.ac.uk/design-engineering/) at Imperial College London.
 
@@ -9,6 +23,9 @@
 - My PhD in Computer Science from [Goldsmiths, University of London](https://www.gold.ac.uk/computing/), focused on interactive machine learning toolkit design for music technologists and audio developers. 
 
 - Previously, I worked as a software architect and engineer in the industry, developing interactive digital signage and business intelligence solutions.
+
+
+
 
 <!--
 **frantic0/frantic0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
