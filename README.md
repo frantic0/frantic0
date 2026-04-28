@@ -11,6 +11,11 @@ Here are the best places to explore my work:
 
 - [**genam**](https://github.com/frantic0/genam) — Generative acoustic metamaterial design and optimisation pipeline and framework
 - [**sema-engine**](https://github.com/frantic0/sema-engine) — Compiler and high-performance signal engine for live code language ecosystems and modern web audio applications
+
+## Current focus
+
+I’m currently working with virtual analog modelling and simulation that run on ultra-low-latency embedded systems
+
 - [**impedance-synthesis**](https://github.com/frantic0/impedance-synthesis-stm32h7) — Programmable synthetic impedance for hybrid analog-digital guitar effects running on STM32
 
 ## What I work on
@@ -47,7 +52,7 @@ I use this GitHub profile to share **tools**, **research code**, **paper compani
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
