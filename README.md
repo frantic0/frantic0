@@ -9,7 +9,7 @@ I'm currently a **Research Associate in Digital Musical Instrument Design** at t
 Here are the best places to explore my work:
 
 - [**genam**](https://github.com/frantic0/genam) — a generative acoustic metamaterial design and optimisation pipeline
-- [**Sema**](https://github.com/mimic-sussex/sema) — a playground for live coding music and machine learning
+- [**sema**](https://github.com/mimic-sussex/sema) — a playground for live coding music and machine learning
 - [**sema-engine**](https://github.com/frantic0/sema-engine) — a JavaScript signal engine for live code language ecosystems and modern web audio applications
 - [**impedance-synthesis**](https://github.com/frantic0/impedance-synthesis-audio-fx) — a generative acoustic metamaterial design and optimisation pipeline
 
