@@ -2,7 +2,7 @@
 
 - I am a Research Associate in Digital Musical Instrument Design at the [Augmented Instrument Lab](https://instrumentslab.org/people/), part of the [Dyson School of Design Engineering](https://www.imperial.ac.uk/design-engineering/) at Imperial College London.
 
-- 🔭 Previously, I worked at the [Multi-Sensory-Devices Lab](https://www.ucl.ac.uk/computer-science/research/research-labs/multi-sensory-devices) at University College London, where I developed acoustic metamaterials and ultrasonic phased arrays for futuristic haptic interfaces, and computational design tools to optimise them. You can check my [`genam`] (https://github.com/frantic0/genam) repo, a design and optimisation pipeline for generative acoustic metamaterial, which I developed for this purpose.
+- 🔭 Previously, I worked at the [Multi-Sensory-Devices Lab](https://www.ucl.ac.uk/computer-science/research/research-labs/multi-sensory-devices) at University College London, where I developed acoustic metamaterials and ultrasonic phased arrays for futuristic haptic interfaces, and computational design tools to optimise them. You can check my [`genam`](https://github.com/frantic0/genam) repo, a design and optimisation pipeline for generative acoustic metamaterial, which I developed for this purpose.
 
 - At the [Experimental Music Technologies Lab](https://www.emutelab.org) at University of Sussex, I developed Web-based livecoding environments for music and machine learning 🎶 🤖 such as [Sema](https://github.com/mimic-sussex/sema) and the [sema-engine](https://github.com/frantic0/sema-engine).
 
