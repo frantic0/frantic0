@@ -14,9 +14,10 @@ Here are the best places to explore my work:
 
 ## Current focus
 
-I’m currently working with virtual analog modelling and simulation that run on ultra-low-latency embedded systems
+I’m currently working with virtual analog modelling and simulation for reference analog audio circuits that run on ultra-low-latency embedded systems
 
 - [**impedance-synthesis**](https://github.com/frantic0/impedance-synthesis-stm32h7) — Programmable synthetic impedance for hybrid analog-digital guitar effects running on STM32
+- [**DAFx25 paper and dataset**](https://github.com/frantic0/dafx25) — paper and companion dataset for reproducible research 
 
 ## What I work on
 
