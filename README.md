@@ -13,6 +13,16 @@ Here are the best places to explore my work:
 - [**sema-engine**](https://github.com/frantic0/sema-engine) — a JavaScript signal engine for live code language ecosystems and modern web audio applications
 - [**impedance-synthesis**](https://github.com/frantic0/impedance-synthesis-audio-fx) — a generative acoustic metamaterial design and optimisation pipeline
 
+## What I work on
+
+- virtual analog modelling for analog audio effects via impedance synthesis
+- acoustic simulation, optimisation, and metamaterial design
+- live coding systems for music and creative coding
+- computational audio and browser-based DSP tools
+- interactive machine learning for musicians and audio developers
+- human-computer interaction for sound, instruments, and creative technologies
+
+## Bio
 
 - I am a Research Associate in Digital Musical Instrument Design at the [Augmented Instrument Lab](https://instrumentslab.org/people/), part of the [Dyson School of Design Engineering](https://www.imperial.ac.uk/design-engineering/) at Imperial College London.
 
@@ -24,7 +34,14 @@ Here are the best places to explore my work:
 
 - Previously, I worked as a software architect and engineer in the industry, developing interactive digital signage and business intelligence solutions.
 
+# Links
 
+- Website: [franciscobernardo.com](https://franciscobernardo.com)
+- GitHub: [@frantic0](https://github.com/frantic0)
+
+---
+
+I use this GitHub profile to share **tools**, **research code**, **paper companions**, and **experimental prototypes** across audio, acoustics, machine learning, and interaction design.
 
 
 <!--
