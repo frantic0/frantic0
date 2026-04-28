@@ -38,7 +38,7 @@ I’m currently working with virtual analog modelling and simulation for referen
 
 - Previously, I worked as a software architect and engineer in the industry, developing interactive digital signage and business intelligence solutions.
 
-# Links
+## Links
 
 - Website: [franciscobernardo.com](https://franciscobernardo.com)
 - GitHub: [@frantic0](https://github.com/frantic0)
