@@ -17,7 +17,7 @@ Here are the best places to explore my work:
 I’m currently working with virtual analog modelling and simulation for reference analog audio circuits that run on ultra-low-latency embedded systems
 
 - [**impedance-synthesis**](https://github.com/frantic0/impedance-synthesis-stm32h7) — Programmable synthetic impedance running on STM32 for hybrid analog-digital guitar effects 
-- [**DAFx25 paper and dataset**](https://github.com/frantic0/dafx25) — paper and companion dataset for reproducible research 
+- [**dafx25**](https://github.com/frantic0/dafx25) — DAFx25 paper and companion dataset for reproducible research 
 
 ## What I work on
 
