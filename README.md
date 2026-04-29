@@ -28,7 +28,7 @@ I’m currently working with virtual analog modelling and simulation via impedan
 - computational audio and browser-based DSP tools
 - human-computer interaction for sound, instruments, and creative technologies
 
-## Bio
+## Previous experience
 
 - 🔭 Previously, I worked at the [Multi-Sensory-Devices Lab](https://www.ucl.ac.uk/computer-science/research/research-labs/multi-sensory-devices) at University College London, where I developed acoustic metamaterials and ultrasonic phased arrays for futuristic haptic interfaces, and computational design tools to optimise them.
 
