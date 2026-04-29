@@ -21,11 +21,11 @@ I’m currently working with virtual analog modelling and simulation for referen
 
 ## What I work on
 
-- virtual analog modelling for analog audio effects via impedance synthesis
-- acoustic simulation, optimisation, and metamaterial design
-- live coding systems for music and creative coding
-- computational audio and browser-based DSP tools
+- virtual analog modelling via impedance synthesis for analog audio effects 
+- acoustic metamaterial design with simulation and optimisation
+- live coding systems for music and machine learning
 - interactive machine learning for musicians and audio developers
+- computational audio and browser-based DSP tools
 - human-computer interaction for sound, instruments, and creative technologies
 
 ## Bio
