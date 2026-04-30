@@ -10,6 +10,7 @@ I'm currently a **Research Associate in Digital Musical Instrument Design** at t
 Here are the best places to explore my work:
 
 - [**sema-engine**](https://github.com/frantic0/sema-engine) — Compiler and high-performance audio signal engine for live coding systems and modern web applications
+- [**sema**](https://github.com/mimic-sussex/sema) – A web-based playground for live coding languages, real-time music and interactive machine learning 
 - [**genam**](https://github.com/frantic0/genam) — Generative acoustic metamaterial design and optimisation pipeline and framework
 
 ## Current focus
