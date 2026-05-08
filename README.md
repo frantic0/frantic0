@@ -22,7 +22,7 @@ I’m currently working with virtual analog modelling and simulation via impedan
 
 ## What I work on
 
-- virtual analog modelling via impedance synthesis for analog audio effects 
+- virtual analog modelling via digital impedance synthesis for analog audio effects 
 - acoustic metamaterial design with simulation and optimisation
 - live coding systems for music and machine learning
 - interactive machine learning for musicians and audio developers
