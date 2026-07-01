@@ -9,7 +9,7 @@ I'm currently a **Research Associate in Digital Musical Instrument Design** at t
 
 Here are the best places to explore my work:
 
-- [**NIME2026.org**](https://nime2026.org/) – NIME'26 conference website, for which I led setup, development, deployment, as part of the Web Chair team
+- [**NIME2026.org**](https://nime2026.org/) – NIME'26 conference website, for which I led setup, development, and deployment, within the Web Chair team
 - [**genam**](https://github.com/frantic0/genam) — Generative acoustic metamaterial design and optimisation pipeline and framework
 - [**sema-engine**](https://github.com/frantic0/sema-engine) — Compiler and high-performance audio signal engine for live coding systems and modern web applications
 - [**sema**](https://github.com/mimic-sussex/sema) – Web-based playground for live coding languages design, real-time audio, music and interactive machine learning 
